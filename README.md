@@ -14,7 +14,11 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<h4>✉️ emipereyaj@gmail.com</h4>
-<h4>🧑‍💻[My blog](https://tu-blog.com)</h4>
+✉️ emipereyaj@gmail.com
+
+💼 https://www.linkedin.com/in/emilio-pereyra-a60725224/
+
+🧑‍💻 https://elemisblog.vercel.app/
+
 
 </p>
