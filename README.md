@@ -14,11 +14,10 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-✉️ emipereyaj@gmail.com
 
-💼 https://www.linkedin.com/in/emilio-pereyra-a60725224/
-
-🧑‍💻 https://elemisblog.vercel.app/
+- ✉️ emipereyaj@gmail.com
+- 💼 https://www.linkedin.com/in/emilio-pereyra-a60725224/
+- 🧑‍💻 https://elemisblog.vercel.app/
 
 
 </p>
