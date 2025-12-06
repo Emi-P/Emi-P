@@ -15,9 +15,9 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-- ✉️ emipereyaj@gmail.com
-- 💼 https://www.linkedin.com/in/emilio-pereyra-a60725224/
-- 🧑‍💻 https://elemisblog.vercel.app/
+- ✉️ [My Email](emipereyaj@gmail.com)
+- 💼 [My portfolio](https://emilio-pereyra.vercel.app/)
+- 🧑‍💻 [My Blog](https://elemisblog.vercel.app/)
 
 
 </p>
