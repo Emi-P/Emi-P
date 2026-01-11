@@ -1,4 +1,4 @@
-<h1 align="left">I am Emis-P</h1>
+<h1 align="left">I am Emi</h1>
 <h3 align="left">Computer science student and hacking enthusiast</h3>
 
 <h3 align="left">Languages and Tools:</h3>
