@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="in-logo/InBug-White.png" alt="logo" width="90" />
-  <br><br>
   <h1>I am Emi</h1>
   <h3>Computer science student & hacking enthusiast</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=emiemiemi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiemiemi&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <br><br>
   <img src="https://streak-stats.demolab.com?user=emiemiemi&theme=tokyonight&hide_border=true" height="160" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emiemiemi&theme=tokyonight&hide_border=true&bg_color=0d1117&point=bf91f3&line=7928ca&color=bf91f3" width="90%" />
