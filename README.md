@@ -7,8 +7,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emiemiemi&theme=tokyonight&hide_border=true&bg_color=0d1117&point=bf91f3&line=7928ca&color=bf91f3" width="90%" /> -->
 </div>
 
----
-
 ### Tech Stack
 
 <div align="center">
